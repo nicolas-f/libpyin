@@ -36,7 +36,6 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 #include <malloc.h>
 #include <math.h>
-#include <unistd.h>
 
 #ifdef max
 #undef max
